@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['14509774891', '👑 Shadow - King 👑', true],
-  ['593968585383'],
-  ['593993684821']
+  ['529842567637', '♪𝐒𝐚𝐡𝐚𝐫𝐚𝐨𝐟𝐜♪', true],
+  ['529841051552'],
+  ['529841051552']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -61,7 +61,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '♪𝐒𝐚𝐡𝐚𝐫𝐚♪ - 𝙱𝚘𝚝★'
 
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
